@@ -1,0 +1,15 @@
+{
+	"id": "any-block-pro",
+	"name": "AnyBlock Pro",
+	"version": "3.4.3",
+	"minAppVersion": "0.15.0",
+	"description": "obsidian-any-block pro version. Provide a real-time editable version of some processors.",
+	"author": "LincZero",
+	"authorUrl": "https://github.com/LincZero",
+	"repo": "https://github.com/any-block/any-block-pro",
+	"fundingUrl": {
+		"Support Page": "https://github.com/LincZero#thank-you-very-much-for-your-support",
+		"中国大陆备用链接": "https://linczero-github-io.pages.dev/MdNote_Other/LincZero/#thank-you-very-much-for-your-support"
+	},
+	"isDesktopOnly": false
+}
